@@ -47,3 +47,19 @@ The structure of the project follows as:
     ├── probability.c
     ├── Build_Blocks.c
     └── main.c
+```
+
+---
+
+## input.txt guide
+
+The program expects 6 lines of numbers in the specific order shown below:
+
+| Line | Value | Variable Name | Description |
+| :---: | :---: | :--- | :--- |
+| **1** | `0.0` | `b_initial` | **Initial Inverse Temperature ($\beta$):** The starting point of the simulation sweep. `0.0` represents infinite temperature ($T \to \infty$) where spins flip completely randomly. |
+| **2** | `2.0` | `b_final` | **Final Inverse Temperature ($\beta$):** The upper boundary target where the temperature sweep stops. |
+| **3** | `0.05`| `b_delta` | **Temperature Step Size:** The amount added to $\beta$ after completing each simulation run to move to the next temperature coordinate. |
+| **4** | `1000000` | `Nmed` | **Number of Measurements:** The quantity of distinct data samples captured per temperature point once the system reaches equilibrium. |
+| **5** | `5` | `L` | **Lattice Size ($L$):** The linear size of the square grid. A value of `5` builds a $5 \times 5$ system containing 25 total spin sites. |
+| **6** | `10000` | `Nter` | **Maximum Warm-Up Steps:** The limit for thermalization passes. The code stops early if stability is detected, but will stop at this number if it takes too long. |
