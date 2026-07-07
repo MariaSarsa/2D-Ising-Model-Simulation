@@ -82,7 +82,7 @@ The program expects 6 lines of numbers in the specific order shown below:
       <td align="center">$\beta < \beta_c$<br><small>(High T)</small></td>
       <td><img  alt="Energy at low beta" src="https://github.com/user-attachments/assets/0e609740-24b9-43dc-939e-b44d7fad785a" width="100%" /></td>
       <td><img  alt="Magnetization at low beta" src="https://github.com/user-attachments/assets/6af05df5-b1e4-4c41-8a7e-828c6d3f7338" width="100%"/></td>
-      <td><img  alt="Spins at low beta" src="https://github.com/user-attachments/assets/8900a737-e641-4c25-bed7-42e8bb216f8b" width="80%" /></td>
+      <td><img  alt="Spins at low beta" src="https://github.com/user-attachments/assets/529a6755-7402-4aa7-8f99-924a178569a7" width="80%" /></td>
     </tr>
     <tr>
       <td align="center">$\beta = \beta_c$<br><small>(Critical Point)</small></td>
