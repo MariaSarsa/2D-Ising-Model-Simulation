@@ -79,22 +79,22 @@ The program expects 6 lines of numbers in the specific order shown below:
   </thead>
   <tbody>
     <tr>
-      <td align="center"><b>$\beta < \beta_c$</b><br><small>(High T)</small></td>
-      <td><img  alt="Energy at low beta" src="https://github.com/user-attachments/assets/0e609740-24b9-43dc-939e-b44d7fad785a" width="100%" /><td>
-      <td><img  alt="Magnetization at low beta" src="https://github.com/user-attachments/assets/6af05df5-b1e4-4c41-8a7e-828c6d3f7338" width="100%"/><td>
-      <td><img  alt="Spins at low beta" src="https://github.com/user-attachments/assets/fcbf143a-8826-49b6-88e3-458028349fb2 width="100%" /><td>
+      <td align="center">$\beta < \beta_c$<br><small>(High T)</small></td>
+      <td><img  alt="Energy at low beta" src="https://github.com/user-attachments/assets/0e609740-24b9-43dc-939e-b44d7fad785a" width="100%" /></td>
+      <td><img  alt="Magnetization at low beta" src="https://github.com/user-attachments/assets/6af05df5-b1e4-4c41-8a7e-828c6d3f7338" width="100%"/></td>
+      <td><img  alt="Spins at low beta" src="https://github.com/user-attachments/assets/fcbf143a-8826-49b6-88e3-458028349fb2 width="100%" /></td>
     </tr>
     <tr>
-      <td align="center"><b>$\beta = \beta_c$</b><br><small>(Critical Point)</small></td>
-        <td><img  alt="Energy at critical beta" src="https://github.com/user-attachments/assets/5f83ad3d-2be9-4732-b305-bc3d16840d80" width="100%"/><td>
-        <td><img  alt="Magnetization at critical beta" src="https://github.com/user-attachments/assets/6167aef8-43cf-4153-a025-080d59524af4"  width="100%"/><td>
-        <td><img  alt="Spins at critical beta" src="https://github.com/user-attachments/assets/6148aba0-e30e-4704-b5b4-784021583a21" width="100%"/><td>
+      <td align="center">$\beta = \beta_c$<br><small>(Critical Point)</small></td>
+        <td><img  alt="Energy at critical beta" src="https://github.com/user-attachments/assets/5f83ad3d-2be9-4732-b305-bc3d16840d80" width="100%"/></td>
+        <td><img  alt="Magnetization at critical beta" src="https://github.com/user-attachments/assets/6167aef8-43cf-4153-a025-080d59524af4"  width="100%"/></td>
+        <td><img  alt="Spins at critical beta" src="https://github.com/user-attachments/assets/6148aba0-e30e-4704-b5b4-784021583a21" width="100%"/></td>
     </tr>
     <tr>
-      <td align="center"><b>$\beta > \beta_c$</b><br><small>(Low T)</small></td>
-        <td><img  alt="Energy at high beta" src="https://github.com/user-attachments/assets/5a14de58-ad3c-4af5-a905-2412ef332a26" width="100%"/><td>
-        <td><img  alt="Magnetization at high beta" src="https://github.com/user-attachments/assets/b9b3e550-50e2-4854-bd23-d40154f0f4d7" width="100%"/><td>
-        <td><img  alt="Spins at high beta" src="https://github.com/user-attachments/assets/4086ca02-83dc-4b9d-b25e-b4798a12e981" width="100%"/><td>
+      <td align="center">$\beta > \beta_c$<br><small>(Low T)</small></td>
+        <td><img  alt="Energy at high beta" src="https://github.com/user-attachments/assets/5a14de58-ad3c-4af5-a905-2412ef332a26" width="100%"/></td>
+        <td><img  alt="Magnetization at high beta" src="https://github.com/user-attachments/assets/b9b3e550-50e2-4854-bd23-d40154f0f4d7" width="100%"/></td>
+        <td><img  alt="Spins at high beta" src="https://github.com/user-attachments/assets/4086ca02-83dc-4b9d-b25e-b4798a12e981" width="100%"/></td>
     </tr>
   </tbody>
 </table>
