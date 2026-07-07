@@ -1,4 +1,3 @@
-<img width="1907" height="422" alt="beta_critica" src="https://github.com/user-attachments/assets/a805025a-f5c3-469a-9736-2b0a0d4a7870" />
 # 2D-Ising-Model-Simulation
 A C-based Monte Carlo simulation of the 2D Ising Model on a square lattice using the **Metropolis algorithm** for state transitions and the **Parisi-Rapuano method** method for random number generation.
 
