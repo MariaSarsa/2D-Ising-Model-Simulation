@@ -68,6 +68,8 @@ The program expects 6 lines of numbers in the specific order shown below:
 
 ## Simulation Visualizations
 
+### Termalization time
+
 <table>
   <thead>
     <tr>
@@ -98,3 +100,26 @@ The program expects 6 lines of numbers in the specific order shown below:
     </tr>
   </tbody>
 </table>
+
+
+### Hysteresis Cycles
+
+<table>
+  <thead>
+    <tr>
+      <th width="50%">Magnetization Loop (Dataset 1)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img alt="Magnetization Hysteresis L=8 & 64" src="https://github.com/user-attachments/assets/25bf94c8-2d6e-4077-9c17-dde52a5eb4f4" width="100%"/>
+      </td>
+      <td>
+        <img alt="Magnetization Hysteresis L=16 & 32" src="https://github.com/user-attachments/assets/bc32795d-a779-4205-9a8e-05fbc534d1a9" width="100%"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Termalized Observables
