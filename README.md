@@ -105,11 +105,6 @@ The program expects 6 lines of numbers in the specific order shown below:
 ### Hysteresis Cycles
 
 <table>
-  <thead>
-    <tr>
-      <th width="50%">Magnetization Loop (Dataset 1)</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
       <td>
@@ -123,3 +118,26 @@ The program expects 6 lines of numbers in the specific order shown below:
 </table>
 
 ### Termalized Observables
+
+<table>
+  <thead>
+    <tr>
+      <th width="33.3%">System Energy</th>
+      <th width="33.3%">Magnetization</th>
+      <th width="33.3%">Specific Heat ($C_v$)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img alt="Thermalized Energy" src="https://github.com/user-attachments/assets/2407d4ad-c3aa-455d-9336-92c1d95cfbf4" width="100%"/>
+      </td>
+      <td>
+        <img alt="Thermalized Magnetization" src="https://github.com/user-attachments/assets/741c6ec7-6541-404d-b98a-783408546d93" width="100%"/>
+      </td>
+      <td>
+        <img alt="Thermalized Specific Heat" src="https://github.com/user-attachments/assets/2df6c85c-be29-4d66-8f26-9e2be48b447a" width="100%"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
