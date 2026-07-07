@@ -141,3 +141,28 @@ The program expects 6 lines of numbers in the specific order shown below:
     </tr>
   </tbody>
 </table>
+
+### Critical Beta Estimation
+
+<table>
+  <thead>
+    <tr>
+      <th align="center">Critical Point Estimation ($\beta_c$)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img alt="Critical Beta Estimation Plot" src="https://github.com/user-attachments/assets/0e0784c7-9723-4ff0-8cbe-348a7fab0466" width="60%" />
+        <br>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" bgcolor="#f6f8fa">
+        <img alt="Estimated Beta Value" src="https://github.com/user-attachments/assets/8a819b83-662d-4368-ada4-742180b70db3" width="25%" />
+        <br>
+        <sub><b>Figure 13:</b> Final calculated numerical estimation for $\beta_c$.</sub>
+      </td>
+    </tr>
+  </tbody>
+</table>
