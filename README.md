@@ -1,3 +1,4 @@
+<img width="1907" height="422" alt="beta_critica" src="https://github.com/user-attachments/assets/a805025a-f5c3-469a-9736-2b0a0d4a7870" />
 # 2D-Ising-Model-Simulation
 A C-based Monte Carlo simulation of the 2D Ising Model on a square lattice using the **Metropolis algorithm** for state transitions and the **Parisi-Rapuano method** method for random number generation.
 
@@ -153,13 +154,13 @@ The program expects 6 lines of numbers in the specific order shown below:
   <tbody>
     <tr>
       <td align="center">
-        <img alt="Critical Beta Estimation Plot" src="https://github.com/user-attachments/assets/0e0784c7-9723-4ff0-8cbe-348a7fab0466" width="60%" />
+        <img alt="Critical Beta Estimation Plot" src="https://github.com/user-attachments/assets/0e0784c7-9723-4ff0-8cbe-348a7fab0466" width="80%" />
         <br>
       </td>
     </tr>
     <tr>
       <td align="center" bgcolor="#f6f8fa">
-        <img alt="Estimated Beta Value" src="https://github.com/user-attachments/assets/8a819b83-662d-4368-ada4-742180b70db3" width="25%" />
+        <img alt="Estimated Beta Value" src="https://github.com/user-attachments/assets/ca7ccf18-2a7e-4566-8bea-19557371e11f" width="50%" />
         <br>
         <sub><b>Figure 13:</b> Final calculated numerical estimation for $\beta_c$.</sub>
       </td>
