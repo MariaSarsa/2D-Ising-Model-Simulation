@@ -161,7 +161,7 @@ The program expects 6 lines of numbers in the specific order shown below:
       <td align="center" bgcolor="#f6f8fa">
         <img alt="Estimated Beta Value" src="https://github.com/user-attachments/assets/ca7ccf18-2a7e-4566-8bea-19557371e11f" width="50%" />
         <br>
-        <sub><b>Figure 13:</b> Final calculated numerical estimation for $\beta_c$.</sub>
+        <sub><b>Figure:</b> Final calculated numerical estimation for $\beta_c$.</sub>
       </td>
     </tr>
   </tbody>
