@@ -70,7 +70,7 @@ The program expects 6 lines of numbers in the specific order shown below:
 
 ### Termalization time
 
-These plots show how energy and magnetization stabilize over iterations across different lattice sizes ($L$), starting from completely different behaviors depending on $beta$. It also shows the spin distribution in the material, where a blue pixel represents spin -1, while a white pixel represents spin +1. The spin configuration explains the microstate geometry that drives these macroscopic states. At high temperatures ($\beta < \beta_c$), thermal noise causes spins to flip randomly into a disorganized, 50/50 mix of spins. At the critical point ($\beta = \beta_c$), spins form clusters of all sizes, which lock into a solid block of uniform alignment at low temperatures ($\beta > \beta_c$).
+These plots show how energy and magnetization stabilize over iterations across different lattice sizes ($L$), starting from completely different behaviors depending on $beta$. It also shows the spin distribution in the material, where a blue pixel represents spin -1, while a white pixel represents spin +1. The spin configuration explains the microstate geometry that drives these macroscopic states. At high temperatures, thermal noise causes spins to flip randomly into a disorganized, 50/50 mix of spins. At the critical point, spins form clusters of all sizes, which lock into a solid block of uniform alignment at low temperatures.
 
 <table>
   <thead>
