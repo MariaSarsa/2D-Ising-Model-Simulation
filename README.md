@@ -169,7 +169,6 @@ Because we have performed the simulations in finite lattices, there is not a rea
       <td align="center" bgcolor="#f6f8fa">
         <img alt="Estimated Beta Value" src="https://github.com/user-attachments/assets/ca7ccf18-2a7e-4566-8bea-19557371e11f" width="50%" />
         <br>
-        <sub><b>Figure:</b> Final calculated numerical estimation for $\beta_c$.</sub>
       </td>
     </tr>
   </tbody>
