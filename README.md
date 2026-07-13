@@ -70,6 +70,8 @@ The program expects 6 lines of numbers in the specific order shown below:
 
 ### Termalization time
 
+These plots show how energy and magnetization stabilize over iterations across different lattice sizes ($L$), starting from completely different behaviors depending on $beta$. It also shows the spin distribution in the material, where a blue pixel represents spin -1, while a white pixel represents spin +1. The spin configuration explains the microstate geometry that drives these macroscopic states. At high temperatures ($\beta < \beta_c$), thermal noise causes spins to flip randomly into a disorganized, 50/50 mix of spins. At the critical point ($\beta = \beta_c$), spins form clusters of all sizes, which lock into a solid block of uniform alignment at low temperatures ($\beta > \beta_c$).
+
 <table>
   <thead>
     <tr>
@@ -104,6 +106,8 @@ The program expects 6 lines of numbers in the specific order shown below:
 
 ### Hysteresis Cycles
 
+For the Hysteresis cycle, the system is heat up and cooled down. The non-thermalized paths show a clear hysteresis loop while thermalized ones collapse together.
+
 <table>
   <tbody>
     <tr>
@@ -118,6 +122,8 @@ The program expects 6 lines of numbers in the specific order shown below:
 </table>
 
 ### Termalized Observables
+
+When plotting the averages collected during $N_{med}$ at each temperature step, we get an understanding of the macroscopic properties of the material. Energy drops slowly as $\beta$ grows, while magnetization rapidly grows toward 1 after crossing the critical phase boundary. The Specific Heat ($C_v$) shows a peak that sharpens as the lattice size ($L$) increases.
 
 <table>
   <thead>
@@ -143,6 +149,8 @@ The program expects 6 lines of numbers in the specific order shown below:
 </table>
 
 ### Critical Beta Estimation
+
+Because we have performed the simulations in finite lattices, there is not a real true mathematical infinity discontinuity at the critical beta. But, we track the pseudo-critical points ($\beta_c(L)$) from our Specific Heat peaks in these finites simulations. By plotting these values against the inverse lattice size ($1/L$) and extrapolating to an infinite grid ($1/L \to 0$) via linear regression, we can estimate the critical point of the infinite 2D Ising model.
 
 <table>
   <thead>
